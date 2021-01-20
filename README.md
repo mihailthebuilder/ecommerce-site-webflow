@@ -23,4 +23,20 @@ The modal displays some key information about the items in your basket. You can 
 
 ![basket 2](./demo/basket.gif)
 
-**The website is responsive**
+There's an `About` page which renders some static content with a fading-in effect...
+
+![about page](./demo/about.gif)
+
+...and a `Past Pop-Ups` page displaying content rendered from Webflow's CMS...
+
+![past pop-ups](./demo/past.gif)
+
+...and a `Contact Us` page. 
+
+![contact](./demo/contact.gif)
+
+**Note:** you can't submit the form as I've deactivated my Webflow subscription.
+
+Final point - the website looks great across all devices:
+
+![responsive](./demo/responsive.gif)
